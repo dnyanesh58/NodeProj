@@ -1,0 +1,22 @@
+{
+  "name": "nodeproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dnyanesh58/NodeProj.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dnyanesh58/NodeProj/issues"
+  },
+  "homepage": "https://github.com/dnyanesh58/NodeProj#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
